@@ -1,3 +1,3 @@
 exports.setting = {
-    app_url: 'https://timcongsu.vn'
+    app_url: 'https://'
 };
